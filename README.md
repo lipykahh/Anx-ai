@@ -1,4 +1,5 @@
-Anx-ai
+#Anx-ai
+
 A small prototype to detect anxiety from short text/speech using a pre-trained scikit-learn model.
 
 Contents
@@ -39,4 +40,4 @@ GitHub rejects files >100MB. For models or large CSVs consider using Git LFS:
   git lfs install
   git lfs track "*.pkl" "*.csv"
   git add .gitattributes
-# If large files are already committed, re-commit them into LFS before pushing.
+If large files are already committed, re-commit them into LFS before pushing.
